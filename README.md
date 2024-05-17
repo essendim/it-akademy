@@ -1,3 +1,3 @@
 # it-akademy
-![Humorous Duck GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Humorous Duck GIF](https://i.pinimg.com/originals/04/2b/29/042b2946a31f710750df610ae15319a0.gif)
 

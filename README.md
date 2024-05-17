@@ -1,2 +1,3 @@
 # it-akademy
-![Humorous Git GIF](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
+![Humorous Duck GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
